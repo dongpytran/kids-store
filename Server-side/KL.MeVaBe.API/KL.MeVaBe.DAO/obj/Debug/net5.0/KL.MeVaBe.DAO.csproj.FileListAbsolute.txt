@@ -1,0 +1,15 @@
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.DAO\bin\Debug\net5.0\KL.MeVaBe.DAO.deps.json
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.DAO\bin\Debug\net5.0\KL.MeVaBe.DAO.dll
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.DAO\bin\Debug\net5.0\ref\KL.MeVaBe.DAO.dll
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.DAO\bin\Debug\net5.0\KL.MeVaBe.DAO.pdb
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.DAO\bin\Debug\net5.0\KL.MeVaBe.BO.dll
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.DAO\bin\Debug\net5.0\KL.MeVaBe.BO.pdb
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.DAO\obj\Debug\net5.0\KL.MeVaBe.DAO.csprojAssemblyReference.cache
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.DAO\obj\Debug\net5.0\KL.MeVaBe.DAO.GeneratedMSBuildEditorConfig.editorconfig
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.DAO\obj\Debug\net5.0\KL.MeVaBe.DAO.AssemblyInfoInputs.cache
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.DAO\obj\Debug\net5.0\KL.MeVaBe.DAO.AssemblyInfo.cs
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.DAO\obj\Debug\net5.0\KL.MeVaBe.DAO.csproj.CoreCompileInputs.cache
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.DAO\obj\Debug\net5.0\KL.MeVaBe.DAO.csproj.CopyComplete
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.DAO\obj\Debug\net5.0\KL.MeVaBe.DAO.dll
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.DAO\obj\Debug\net5.0\ref\KL.MeVaBe.DAO.dll
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.DAO\obj\Debug\net5.0\KL.MeVaBe.DAO.pdb

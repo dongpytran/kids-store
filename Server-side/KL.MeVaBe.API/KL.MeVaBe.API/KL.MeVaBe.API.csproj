@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>394cb6b2-6fd1-45ee-ae0a-5d01217193ae</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KL.MeVaBe.BLL\KL.MeVaBe.BLL.csproj" />
+    <ProjectReference Include="..\KL.MeVaBe.BO\KL.MeVaBe.BO.csproj" />
+  </ItemGroup>
+
+</Project>

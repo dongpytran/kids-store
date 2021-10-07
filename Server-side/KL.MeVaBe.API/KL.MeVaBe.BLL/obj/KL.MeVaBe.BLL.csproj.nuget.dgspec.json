@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.BLL\\KL.MeVaBe.BLL.csproj": {}
+  },
+  "projects": {
+    "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.BLL\\KL.MeVaBe.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.BLL\\KL.MeVaBe.BLL.csproj",
+        "projectName": "KL.MeVaBe.BLL",
+        "projectPath": "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.BLL\\KL.MeVaBe.BLL.csproj",
+        "packagesPath": "C:\\Users\\PY\\.nuget\\packages\\",
+        "outputPath": "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.BO\\KL.MeVaBe.BO.csproj": {
+                "projectPath": "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.BO\\KL.MeVaBe.BO.csproj"
+              },
+              "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.DAO\\KL.MeVaBe.DAO.csproj": {
+                "projectPath": "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.DAO\\KL.MeVaBe.DAO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.BO\\KL.MeVaBe.BO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.BO\\KL.MeVaBe.BO.csproj",
+        "projectName": "KL.MeVaBe.BO",
+        "projectPath": "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.BO\\KL.MeVaBe.BO.csproj",
+        "packagesPath": "C:\\Users\\PY\\.nuget\\packages\\",
+        "outputPath": "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.BO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.DAO\\KL.MeVaBe.DAO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.DAO\\KL.MeVaBe.DAO.csproj",
+        "projectName": "KL.MeVaBe.DAO",
+        "projectPath": "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.DAO\\KL.MeVaBe.DAO.csproj",
+        "packagesPath": "C:\\Users\\PY\\.nuget\\packages\\",
+        "outputPath": "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.DAO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.BO\\KL.MeVaBe.BO.csproj": {
+                "projectPath": "E:\\KL_MeVaBe\\Server-side\\KL.MeVaBe.API\\KL.MeVaBe.BO\\KL.MeVaBe.BO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

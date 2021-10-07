@@ -1,0 +1,12 @@
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.BO\bin\Release\net5.0\KL.MeVaBe.BO.deps.json
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.BO\bin\Release\net5.0\KL.MeVaBe.BO.dll
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.BO\bin\Release\net5.0\ref\KL.MeVaBe.BO.dll
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.BO\bin\Release\net5.0\KL.MeVaBe.BO.pdb
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.BO\obj\Release\net5.0\KL.MeVaBe.BO.csprojAssemblyReference.cache
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.BO\obj\Release\net5.0\KL.MeVaBe.BO.GeneratedMSBuildEditorConfig.editorconfig
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.BO\obj\Release\net5.0\KL.MeVaBe.BO.AssemblyInfoInputs.cache
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.BO\obj\Release\net5.0\KL.MeVaBe.BO.AssemblyInfo.cs
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.BO\obj\Release\net5.0\KL.MeVaBe.BO.csproj.CoreCompileInputs.cache
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.BO\obj\Release\net5.0\KL.MeVaBe.BO.dll
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.BO\obj\Release\net5.0\ref\KL.MeVaBe.BO.dll
+E:\KL_MeVaBe\Server-side\KL.MeVaBe.API\KL.MeVaBe.BO\obj\Release\net5.0\KL.MeVaBe.BO.pdb

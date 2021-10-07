@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KL.MeVaBe.BO\KL.MeVaBe.BO.csproj" />
+    <ProjectReference Include="..\KL.MeVaBe.DAO\KL.MeVaBe.DAO.csproj" />
+  </ItemGroup>
+
+</Project>
